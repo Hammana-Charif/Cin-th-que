@@ -1,0 +1,18 @@
+Créer une cinéthèque avec comme base, des fichiers .txt.
+Premètre à l'utilisateur de solicité les données pour afficher les informations liées aux films qu'il consulte.
+
+Infos:
+-Thèmatique
+-Nom du film
+-Durée
+-Noms des acteurs
+-Synopsis
+-Liens Allociné
+
+Méchanique :
+L'utilisateur peut soit naviguer dans un thème et séléctionner le film de son choix, soit recherche via le nom par saisie.
+
+Classes candidates :
+-Théme
+-Film
+-Cinéthèque
