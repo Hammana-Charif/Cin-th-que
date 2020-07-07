@@ -1,4 +1,4 @@
-﻿namespace Cinéthèque
+﻿namespace Cinetheque
 {
     class Program
     {

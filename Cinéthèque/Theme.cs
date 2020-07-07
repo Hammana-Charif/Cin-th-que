@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Linq;
 
-namespace Cinéthèque
+namespace Cinetheque
 {
     class Theme
     {

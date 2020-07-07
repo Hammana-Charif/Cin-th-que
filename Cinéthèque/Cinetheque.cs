@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cinéthèque
+namespace Cinetheque
 {
     class Cinetheque
     {
